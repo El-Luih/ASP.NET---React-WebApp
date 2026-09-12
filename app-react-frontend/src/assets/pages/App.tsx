@@ -14,7 +14,7 @@ function App() {
   const [error, setError] = useState<string | null>(null)
 
   useEffect(() => {
-    fetch('/WeatherForecast')
+    fetch('/ThisIsThenameOfTheRoute')
       .then(async response => {
         if (!response.ok) {
           throw new Error(`It didn't work, tough luck: ${response.status}`)

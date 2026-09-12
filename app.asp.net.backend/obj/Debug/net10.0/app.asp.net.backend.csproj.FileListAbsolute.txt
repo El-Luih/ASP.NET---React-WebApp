@@ -31,3 +31,4 @@ D:\Documents\Coding\cse310\ASP.NET WebApp\app.asp.net.backend\obj\Debug\net10.0\
 D:\Documents\Coding\cse310\ASP.NET WebApp\app.asp.net.backend\obj\Debug\net10.0\app.asp.net.backend.pdb
 D:\Documents\Coding\cse310\ASP.NET WebApp\app.asp.net.backend\obj\Debug\net10.0\app.asp.net.backend.genruntimeconfig.cache
 D:\Documents\Coding\cse310\ASP.NET WebApp\app.asp.net.backend\obj\Debug\net10.0\ref\app.asp.net.backend.dll
+D:\Documents\Coding\cse310\ASP.NET WebApp\app.asp.net.backend\obj\Debug\net10.0\app.asp.net.backend.sourcelink.json

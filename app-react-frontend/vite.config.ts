@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     proxy: {
-      '/WeatherForecast': {
+      '/ThisIsThenameOfTheRoute': {
         target: 'http://localhost:5069',
         changeOrigin: true,
         secure: false,

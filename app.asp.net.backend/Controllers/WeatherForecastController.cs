@@ -4,7 +4,7 @@ namespace app.asp.net.backend.Controllers;
 
 [ApiController]
 [Route("[controller]")]
-public class WeatherForecastController : ControllerBase
+public class ThisIsThenameOfTheRouteController : ControllerBase
 {
     private static readonly string[] Summaries =
     [
