@@ -1,0 +1,16 @@
+//ROUTES
+- / (main)
+- / about-us
+- /login
+- /register
+- /student/home
+- /student/dashboard
+- /student/dashboard/profile
+- /instructor/home
+- /instructor/dashboard
+- /instructor/dashboard/profile
+
+//IMAGES
+- appLogo.svg
+- appBanner.png
+- placeholderPFP.svg

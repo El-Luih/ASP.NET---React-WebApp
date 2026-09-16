@@ -1,0 +1,14 @@
+- Install .NET SDK 10 or above from its official page
+- used pnpm create vite@latest to create a new react + typescript project
+- run pnpm run dev to check the vite project works
+- used dotnet to create a separate, new web core api project
+- used dotnet run to check and /weatherforecast subdirectory to check if the server works
+- configured both the vite and the asp.net to determine the environment. 
+    if local, will use local ports. if production, will use the hosted path. this is done so the app 
+    can be showcased with github pages
+- downloaded and configured npm module "concurrently" to run the vite and asp.net servers simultaneously
+- configured a small .db database with SQLite
+- allowed the web app to work both as github page preview and locally by properly 
+    configuring vite and hosting the asp.net web core api in render.
+
+
