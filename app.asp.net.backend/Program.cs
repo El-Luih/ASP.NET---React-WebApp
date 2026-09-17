@@ -1,8 +1,15 @@
+using Microsoft.Extensions.Options;
+using Microsoft.EntityFrameworkCore;
+using app.asp.net.backedn.TriviaData;
+
 var builder = WebApplication.CreateBuilder(args);
 
 ////////////////////SERVICES////////////////////
 // DEFAULT Add services to the container.
-
+//Adds a collect
+builder.Services.AddDbContext<TriviaDBContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+// DEFAULT Integrates controller files in "Controllers" to the app.
 builder.Services.AddControllers();
 // DEFAULT Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
