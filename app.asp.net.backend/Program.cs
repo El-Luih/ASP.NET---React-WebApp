@@ -1,6 +1,6 @@
 using Microsoft.Extensions.Options;
 using Microsoft.EntityFrameworkCore;
-using app.asp.net.backedn.TriviaData;
+using app.asp.net.backend.TriviaData;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -27,6 +27,13 @@ builder.Services.AddCors(options =>
 
 ////////////////////BUILDERS////////////////////
 var app = builder.Build();
+
+////////DATABASE INITIZIALIZATION////////////////////
+using (var scope = app.Services.CreateScope())
+{
+    var context = scope.ServiceProvider.GetRequiredService<TriviaDBContext>();
+    DbInitializer.Seed(context, app.Environment.ContentRootPath);
+}
 
 ////////////////////PIPELINE////////////////////
 // DEFAULT Configure the HTTP request pipeline.

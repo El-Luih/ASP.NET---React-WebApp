@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using app.asp.net.backend.TriviaModels;
 
-namespace app.asp.net.backedn.TriviaData;
+namespace app.asp.net.backend.TriviaData;
 
 public class TriviaDBContext : DbContext
 {

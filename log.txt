@@ -43,7 +43,7 @@
     - Installed EF Core design package by running "dotnet add package Microsoft.EntityFrameworkCore.Design" to enable "dotnet-ef" installation.
     - Installed the "dotnet-ef" tool for development by running "dotnet tool install --global dotnet-ef" and verified with "dotnet ef --version".
 
-20. Sep 17, 2026 | 7:53 AM - Coded the ASP.NET app model in the Models folder, configured the database default connection setting to the file "triviaApp.db" in "appsettings.json", and added the necessary builder for the database context services in "Program.cs".
+20. Sep 17, 2026 | 7:53 AM - 2:01 PM - Coded the ASP.NET app model in the Models folder, configured the database default connection setting to the file "triviaApp.db" in "appsettings.json", and added the necessary builder for the database context services in "Program.cs".
     This is needed since ASP.NET Core web API template has no opinion on how a model should look.
     Completed the following steps
     - Thoroughly research EF Core functionality to unserstand it at a fundamental level.
@@ -54,8 +54,13 @@
     - Called the "AddDBContext" with the "TriviaDbContext" as its type parameter to use it as a server in the main Program.cs, with the "options" argument using 
     the "UsqSqlite" method to call the "builder" Configuration's method "GetConnectionString" to use the "DefaultConnection" property from the "ConnectionString" object as a parameter,
     so the database context can connect with the actual SQLite database through this service.
-    - Ran "dotnet ef migrations add InitialCreate" to create the database succesfully.
+    - Ran "dotnet ef migrations add InitialCreate" to create schema creation files for migration.
     - Commited changes
+
+21. Sep 17, 2026 | 7:35 PM - 7:40 PM - Ran "dotnet ef database update" to actually create "triviaApp.db"
+22. Sep 17, 2026 | 8:42:35 PM - 10:09 PM - Created the seed data of the Question and Category tables along the database initializer to make the database portable.
+
+
 
 
 
