@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">InsTrivia mark</title>
+  <desc id="desc">A coral compass star inside a green circle</desc>
+  <circle cx="32" cy="32" r="30" fill="#263a32"/>
+  <path d="m32 10 5.2 16.8L54 32l-16.8 5.2L32 54l-5.2-16.8L10 32l16.8-5.2z" fill="#e4604c"/>
+  <circle cx="32" cy="32" r="5" fill="#fffdf8"/>
+</svg>

@@ -67,3 +67,25 @@
     - The file PlayerNameHeper.cs was created as a service in a new Services directory. It checks for an existing player name.
 26. Sep 19, 2026 | 4:13 AM - 6:42 AM - Testing, troubleshooting, fixing and commit.
 
+27. Sep 19, 2026 | 6:42 AM - 7:13 AM - Completed backend troubleshooting, API development, frontend implementation, design improvements, and validation. This included the following processes:
+    - Fixed a namespace typo in the Entity Framework migration files. The generated migration files referenced "app.asp.net.backedn.TriviaData" instead of "app.asp.net.backend.TriviaData", which caused backend compilation errors.
+    - Fixed database seed-data initialization by updating the initializer to find "trivia-seed-data.json" in "Data/TriviaData". Verified that the database seeded successfully when the API started.
+    - Added and verified the "GET /api/questions" endpoint with category filtering, randomized question selection, configurable question count, and public question fields that do not expose correct answers.
+    - Completed the scores API workflow with score submission, server-side score calculation, unique player-name enforcement, and leaderboard ordering by highest score followed by earliest submission time.
+    - Added score validation to prevent duplicate answers, cross-category question submissions, invalid categories, and invalid leaderboard limits.
+    - Replaced the Vite starter frontend with the complete trivia flow: username verification, category selection, seven-question quiz loading, answer selection, score submission, results display, and refreshed category leaderboard.
+    - Reworked the frontend design with responsive layouts, custom typography, improved spacing, form controls, answer cards, leaderboard styling, loading states, and error messaging.
+    - Removed leftover Vite starter CSS and replaced it with a clean responsive stylesheet.
+    - Updated frontend API configuration to use the configurable "VITE_API_URL" environment variable with "/api" as the default, and configured the Vite development proxy for backend API requests.
+    - Updated the application footer to display "Luis Maradiaga · INS · 2026".
+    - Validated the project with successful "pnpm build" and "dotnet build" commands, and verified that the Vite development server starts successfully at "http://127.0.0.1:5173/".
+
+28. Sep 19, 2026 | 7:13 AM - 8:02 AM - Added the final development and branding improvements. This included the following processes:
+    - Added the "dev:all" package script using the installed "concurrently" package to start the Vite frontend and ASP.NET backend with one command.
+    - Configured the combined command to start Vite at "http://localhost:5173" and ASP.NET at "http://localhost:5069", with both processes stopping together.
+    - Removed comments added during the implementation from the touched code files.
+    - Created the InsTrivia SVG brand mark and added it to the application header.
+    - Updated the favicon to use the new InsTrivia SVG mark.
+    - Updated the document title from "Softia" to "InsTrivia".
+    - Validated the frontend with a successful "pnpm build" command.
+

@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+  "dev:all": "concurrently -k -n FRONTEND,BACKEND -c cyan,green \"pnpm dev\" \"dotnet run --project ../app.asp.net.backend/app.asp.net.backend.csproj --launch-profile http\"",
     "build": "tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview"
