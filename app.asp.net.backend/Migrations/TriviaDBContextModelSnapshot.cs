@@ -3,7 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using app.asp.net.backedn.TriviaData;
+using app.asp.net.backend.TriviaData;
 
 #nullable disable
 

@@ -146,3 +146,4 @@ D:\Documents\Coding\cse310\ASP.NET WebApp\app.asp.net.backend\bin\Debug\net10.0\
 D:\Documents\Coding\cse310\ASP.NET WebApp\app.asp.net.backend\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
 D:\Documents\Coding\cse310\ASP.NET WebApp\app.asp.net.backend\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\Documents\Coding\cse310\ASP.NET WebApp\app.asp.net.backend\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Documents\Coding\cse310\ASP.NET WebApp\app.asp.net.backend\bin\Debug\net10.0\Data\TriviaData\trivia-seed-data.json

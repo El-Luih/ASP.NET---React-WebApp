@@ -28,7 +28,7 @@ builder.Services.AddCors(options =>
 ////////////////////BUILDERS////////////////////
 var app = builder.Build();
 
-////////DATABASE INITIZIALIZATION////////////////////
+////////DATABASE INITIZIALIZATION////////////////////w
 using (var scope = app.Services.CreateScope())
 {
     var context = scope.ServiceProvider.GetRequiredService<TriviaDBContext>();

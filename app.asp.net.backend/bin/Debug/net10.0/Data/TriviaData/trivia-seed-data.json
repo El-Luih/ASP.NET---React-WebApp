@@ -1,0 +1,2559 @@
+{
+  "categories": [
+    {
+      "name": "History",
+      "questions": [
+        {
+          "text": "Who was the first President of the United States?",
+          "optionA": "Thomas Jefferson",
+          "optionB": "George Washington",
+          "optionC": "John Adams",
+          "optionD": "Abraham Lincoln",
+          "correctOption": "B"
+        },
+        {
+          "text": "In which year did World War II end?",
+          "optionA": "1943",
+          "optionB": "1944",
+          "optionC": "1945",
+          "optionD": "1946",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which ancient civilization built the Great Pyramids of Giza?",
+          "optionA": "Romans",
+          "optionB": "Greeks",
+          "optionC": "Egyptians",
+          "optionD": "Persians",
+          "correctOption": "C"
+        },
+        {
+          "text": "The Berlin Wall fell in which year?",
+          "optionA": "1987",
+          "optionB": "1989",
+          "optionC": "1991",
+          "optionD": "1993",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who was the British Prime Minister during most of World War II?",
+          "optionA": "Neville Chamberlain",
+          "optionB": "Winston Churchill",
+          "optionC": "Clement Attlee",
+          "optionD": "Anthony Eden",
+          "correctOption": "B"
+        },
+        {
+          "text": "The French Revolution began in which year?",
+          "optionA": "1776",
+          "optionB": "1789",
+          "optionC": "1799",
+          "optionD": "1804",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who was the first Emperor of Rome?",
+          "optionA": "Julius Caesar",
+          "optionB": "Nero",
+          "optionC": "Augustus",
+          "optionD": "Constantine",
+          "correctOption": "C"
+        },
+        {
+          "text": "In which year did the Titanic sink?",
+          "optionA": "1910",
+          "optionB": "1911",
+          "optionC": "1912",
+          "optionD": "1913",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which country was formerly known as Persia?",
+          "optionA": "Iraq",
+          "optionB": "Iran",
+          "optionC": "Turkey",
+          "optionD": "Syria",
+          "correctOption": "B"
+        },
+        {
+          "text": "The Cold War was primarily between the United States and which other country?",
+          "optionA": "China",
+          "optionB": "Soviet Union",
+          "optionC": "Cuba",
+          "optionD": "North Korea",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote the Declaration of Independence?",
+          "optionA": "Benjamin Franklin",
+          "optionB": "Thomas Jefferson",
+          "optionC": "John Adams",
+          "optionD": "James Madison",
+          "correctOption": "B"
+        },
+        {
+          "text": "The Magna Carta was signed in which year?",
+          "optionA": "1066",
+          "optionB": "1215",
+          "optionC": "1348",
+          "optionD": "1492",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which empire was ruled by Genghis Khan?",
+          "optionA": "Ottoman",
+          "optionB": "Mongol",
+          "optionC": "Byzantine",
+          "optionD": "Roman",
+          "correctOption": "B"
+        },
+        {
+          "text": "In which year did Christopher Columbus first reach the Americas?",
+          "optionA": "1492",
+          "optionB": "1500",
+          "optionC": "1510",
+          "optionD": "1488",
+          "correctOption": "A"
+        },
+        {
+          "text": "The atomic bombs were dropped on Hiroshima and which other Japanese city?",
+          "optionA": "Tokyo",
+          "optionB": "Osaka",
+          "optionC": "Nagasaki",
+          "optionD": "Kyoto",
+          "correctOption": "C"
+        },
+        {
+          "text": "Who was known as the \"Iron Lady\"?",
+          "optionA": "Angela Merkel",
+          "optionB": "Margaret Thatcher",
+          "optionC": "Golda Meir",
+          "optionD": "Indira Gandhi",
+          "correctOption": "B"
+        },
+        {
+          "text": "The Great Wall of China was primarily built to defend against which group?",
+          "optionA": "Mongols and nomadic tribes",
+          "optionB": "Japanese forces",
+          "optionC": "Russian armies",
+          "optionD": "European traders",
+          "correctOption": "A"
+        },
+        {
+          "text": "Which country gifted the Statue of Liberty to the United States?",
+          "optionA": "Britain",
+          "optionB": "Spain",
+          "optionC": "France",
+          "optionD": "Italy",
+          "correctOption": "C"
+        },
+        {
+          "text": "The Renaissance began in which country?",
+          "optionA": "France",
+          "optionB": "Italy",
+          "optionC": "England",
+          "optionD": "Germany",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+          "optionA": "Joseph Stalin",
+          "optionB": "Nikita Khrushchev",
+          "optionC": "Leonid Brezhnev",
+          "optionD": "Mikhail Gorbachev",
+          "correctOption": "B"
+        },
+        {
+          "text": "In which year did India gain independence from Britain?",
+          "optionA": "1945",
+          "optionB": "1947",
+          "optionC": "1950",
+          "optionD": "1952",
+          "correctOption": "B"
+        },
+        {
+          "text": "The Boston Tea Party took place in which year?",
+          "optionA": "1770",
+          "optionB": "1773",
+          "optionC": "1776",
+          "optionD": "1780",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who was assassinated in Dallas, Texas in 1963?",
+          "optionA": "Martin Luther King Jr.",
+          "optionB": "Robert Kennedy",
+          "optionC": "John F. Kennedy",
+          "optionD": "Malcolm X",
+          "correctOption": "C"
+        },
+        {
+          "text": "The Industrial Revolution began primarily in which country?",
+          "optionA": "United States",
+          "optionB": "Germany",
+          "optionC": "Britain",
+          "optionD": "France",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which wall divided a European capital city from 1961 to 1989?",
+          "optionA": "Vienna Wall",
+          "optionB": "Berlin Wall",
+          "optionC": "Warsaw Wall",
+          "optionD": "Budapest Wall",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who was the first man to walk on the moon?",
+          "optionA": "Buzz Aldrin",
+          "optionB": "Yuri Gagarin",
+          "optionC": "Neil Armstrong",
+          "optionD": "John Glenn",
+          "correctOption": "C"
+        },
+        {
+          "text": "The Battle of Hastings took place in which year?",
+          "optionA": "1066",
+          "optionB": "1215",
+          "optionC": "1348",
+          "optionD": "1415",
+          "correctOption": "A"
+        },
+        {
+          "text": "Which country was unified by Otto von Bismarck in 1871?",
+          "optionA": "Italy",
+          "optionB": "Germany",
+          "optionC": "Austria",
+          "optionD": "Poland",
+          "correctOption": "B"
+        },
+        {
+          "text": "The Black Death was a devastating outbreak of which disease?",
+          "optionA": "Smallpox",
+          "optionB": "Cholera",
+          "optionC": "Bubonic plague",
+          "optionD": "Influenza",
+          "correctOption": "C"
+        },
+        {
+          "text": "Who was the last Tsar of Russia?",
+          "optionA": "Alexander III",
+          "optionB": "Nicholas II",
+          "optionC": "Peter the Great",
+          "optionD": "Ivan the Terrible",
+          "correctOption": "B"
+        },
+        {
+          "text": "The Suez Canal connects the Mediterranean Sea to which other body of water?",
+          "optionA": "Persian Gulf",
+          "optionB": "Red Sea",
+          "optionC": "Arabian Sea",
+          "optionD": "Black Sea",
+          "correctOption": "B"
+        },
+        {
+          "text": "Nelson Mandela's decades of activism helped end which system in South Africa?",
+          "optionA": "The Berlin Wall",
+          "optionB": "Apartheid",
+          "optionC": "Segregation in the US",
+          "optionD": "Colonial rule in India",
+          "correctOption": "B"
+        },
+        {
+          "text": "The Wright brothers achieved the first powered flight in which year?",
+          "optionA": "1899",
+          "optionB": "1903",
+          "optionC": "1908",
+          "optionD": "1912",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which empire was ruled from Constantinople?",
+          "optionA": "Roman Empire",
+          "optionB": "Byzantine Empire",
+          "optionC": "Ottoman Empire",
+          "optionD": "Both B and C",
+          "correctOption": "D"
+        },
+        {
+          "text": "The Vietnam War, fought between North and South Vietnam, ended in which year?",
+          "optionA": "1970",
+          "optionB": "1973",
+          "optionC": "1975",
+          "optionD": "1979",
+          "correctOption": "C"
+        },
+        {
+          "text": "Who painted the ceiling of the Sistine Chapel?",
+          "optionA": "Leonardo da Vinci",
+          "optionB": "Michelangelo",
+          "optionC": "Raphael",
+          "optionD": "Donatello",
+          "correctOption": "B"
+        },
+        {
+          "text": "The Louisiana Purchase was made by the United States from which country?",
+          "optionA": "Spain",
+          "optionB": "Britain",
+          "optionC": "France",
+          "optionD": "Portugal",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which queen ruled England during the defeat of the Spanish Armada?",
+          "optionA": "Mary I",
+          "optionB": "Elizabeth I",
+          "optionC": "Victoria",
+          "optionD": "Anne",
+          "correctOption": "B"
+        },
+        {
+          "text": "The Panama Canal connects the Atlantic Ocean to which other ocean?",
+          "optionA": "Indian Ocean",
+          "optionB": "Arctic Ocean",
+          "optionC": "Pacific Ocean",
+          "optionD": "Southern Ocean",
+          "correctOption": "C"
+        },
+        {
+          "text": "Who was the first female Prime Minister of India?",
+          "optionA": "Indira Gandhi",
+          "optionB": "Sonia Gandhi",
+          "optionC": "Pratibha Patil",
+          "optionD": "Sarojini Naidu",
+          "correctOption": "A"
+        },
+        {
+          "text": "The Treaty of Versailles was signed after which war?",
+          "optionA": "World War I",
+          "optionB": "World War II",
+          "optionC": "Franco-Prussian War",
+          "optionD": "Napoleonic Wars",
+          "correctOption": "A"
+        },
+        {
+          "text": "Which US president led the country during the Civil War?",
+          "optionA": "Andrew Jackson",
+          "optionB": "Abraham Lincoln",
+          "optionC": "Ulysses S. Grant",
+          "optionD": "James Buchanan",
+          "correctOption": "B"
+        },
+        {
+          "text": "According to legend, the ancient city of Rome was built on how many hills?",
+          "optionA": "Five",
+          "optionB": "Seven",
+          "optionC": "Nine",
+          "optionD": "Twelve",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which explorer led the first expedition to circumnavigate the globe, though he died partway through?",
+          "optionA": "Vasco da Gama",
+          "optionB": "Ferdinand Magellan",
+          "optionC": "Christopher Columbus",
+          "optionD": "James Cook",
+          "correctOption": "B"
+        },
+        {
+          "text": "The fall of the Roman Empire in the West is traditionally dated to which century?",
+          "optionA": "3rd century AD",
+          "optionB": "5th century AD",
+          "optionC": "7th century AD",
+          "optionD": "9th century AD",
+          "correctOption": "B"
+        }
+      ]
+    },
+    {
+      "name": "Science",
+      "questions": [
+        {
+          "text": "What is the chemical symbol for gold?",
+          "optionA": "Ag",
+          "optionB": "Au",
+          "optionC": "Gd",
+          "optionD": "Go",
+          "correctOption": "B"
+        },
+        {
+          "text": "What planet is known as the Red Planet?",
+          "optionA": "Venus",
+          "optionB": "Jupiter",
+          "optionC": "Mars",
+          "optionD": "Saturn",
+          "correctOption": "C"
+        },
+        {
+          "text": "What is the powerhouse of the cell?",
+          "optionA": "Nucleus",
+          "optionB": "Ribosome",
+          "optionC": "Mitochondria",
+          "optionD": "Golgi apparatus",
+          "correctOption": "C"
+        },
+        {
+          "text": "What is the chemical formula for water?",
+          "optionA": "CO2",
+          "optionB": "H2O",
+          "optionC": "O2",
+          "optionD": "NaCl",
+          "correctOption": "B"
+        },
+        {
+          "text": "How many bones are in the adult human body?",
+          "optionA": "186",
+          "optionB": "206",
+          "optionC": "226",
+          "optionD": "246",
+          "correctOption": "B"
+        },
+        {
+          "text": "What gas do plants absorb from the atmosphere for photosynthesis?",
+          "optionA": "Oxygen",
+          "optionB": "Nitrogen",
+          "optionC": "Carbon dioxide",
+          "optionD": "Hydrogen",
+          "correctOption": "C"
+        },
+        {
+          "text": "What is the speed of light in a vacuum, approximately?",
+          "optionA": "300,000 km/s",
+          "optionB": "150,000 km/s",
+          "optionC": "3,000 km/s",
+          "optionD": "30,000 km/s",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who developed the theory of general relativity?",
+          "optionA": "Isaac Newton",
+          "optionB": "Albert Einstein",
+          "optionC": "Niels Bohr",
+          "optionD": "Stephen Hawking",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the hardest natural substance on Earth?",
+          "optionA": "Gold",
+          "optionB": "Quartz",
+          "optionC": "Diamond",
+          "optionD": "Iron",
+          "correctOption": "C"
+        },
+        {
+          "text": "What is the largest organ in the human body?",
+          "optionA": "Liver",
+          "optionB": "Heart",
+          "optionC": "Skin",
+          "optionD": "Lungs",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which element has the atomic number 1?",
+          "optionA": "Helium",
+          "optionB": "Hydrogen",
+          "optionC": "Oxygen",
+          "optionD": "Carbon",
+          "correctOption": "B"
+        },
+        {
+          "text": "What force keeps planets in orbit around the sun?",
+          "optionA": "Magnetism",
+          "optionB": "Gravity",
+          "optionC": "Friction",
+          "optionD": "Nuclear force",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the closest star to Earth?",
+          "optionA": "Proxima Centauri",
+          "optionB": "Alpha Centauri",
+          "optionC": "The Sun",
+          "optionD": "Sirius",
+          "correctOption": "C"
+        },
+        {
+          "text": "What type of animal is a Komodo dragon?",
+          "optionA": "Snake",
+          "optionB": "Lizard",
+          "optionC": "Crocodile",
+          "optionD": "Amphibian",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the process by which plants make their own food called?",
+          "optionA": "Respiration",
+          "optionB": "Photosynthesis",
+          "optionC": "Fermentation",
+          "optionD": "Digestion",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the boiling point of water at sea level in Celsius?",
+          "optionA": "90",
+          "optionB": "100",
+          "optionC": "110",
+          "optionD": "120",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which blood type is known as the universal donor?",
+          "optionA": "A",
+          "optionB": "B",
+          "optionC": "AB",
+          "optionD": "O negative",
+          "correctOption": "D"
+        },
+        {
+          "text": "What is the study of earthquakes called?",
+          "optionA": "Geology",
+          "optionB": "Seismology",
+          "optionC": "Meteorology",
+          "optionD": "Volcanology",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the main gas found in Earth's atmosphere?",
+          "optionA": "Oxygen",
+          "optionB": "Carbon dioxide",
+          "optionC": "Nitrogen",
+          "optionD": "Hydrogen",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which is the largest planet in our solar system?",
+          "optionA": "Earth",
+          "optionB": "Saturn",
+          "optionC": "Jupiter",
+          "optionD": "Neptune",
+          "correctOption": "C"
+        },
+        {
+          "text": "What is the pH value of pure water?",
+          "optionA": "0",
+          "optionB": "7",
+          "optionC": "10",
+          "optionD": "14",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which part of the plant conducts photosynthesis primarily?",
+          "optionA": "Roots",
+          "optionB": "Stem",
+          "optionC": "Leaves",
+          "optionD": "Flowers",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which scientist is known for the theory of evolution by natural selection?",
+          "optionA": "Gregor Mendel",
+          "optionB": "Charles Darwin",
+          "optionC": "Louis Pasteur",
+          "optionD": "Alexander Fleming",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the smallest unit of life?",
+          "optionA": "Atom",
+          "optionB": "Molecule",
+          "optionC": "Cell",
+          "optionD": "Organ",
+          "correctOption": "C"
+        },
+        {
+          "text": "What is the chemical symbol for sodium?",
+          "optionA": "So",
+          "optionB": "Sd",
+          "optionC": "Na",
+          "optionD": "S",
+          "correctOption": "C"
+        },
+        {
+          "text": "How many chambers does the human heart have?",
+          "optionA": "2",
+          "optionB": "3",
+          "optionC": "4",
+          "optionD": "5",
+          "correctOption": "C"
+        },
+        {
+          "text": "What is the primary source of energy for Earth's climate system?",
+          "optionA": "The Moon",
+          "optionB": "The Sun",
+          "optionC": "Geothermal heat",
+          "optionD": "Ocean currents",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which vitamin is produced when skin is exposed to sunlight?",
+          "optionA": "Vitamin A",
+          "optionB": "Vitamin C",
+          "optionC": "Vitamin D",
+          "optionD": "Vitamin K",
+          "correctOption": "C"
+        },
+        {
+          "text": "What is the term for an animal that eats both plants and meat?",
+          "optionA": "Herbivore",
+          "optionB": "Carnivore",
+          "optionC": "Omnivore",
+          "optionD": "Detritivore",
+          "correctOption": "C"
+        },
+        {
+          "text": "What is the name of the galaxy that contains our solar system?",
+          "optionA": "Andromeda",
+          "optionB": "Milky Way",
+          "optionC": "Triangulum",
+          "optionD": "Whirlpool",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which gas do humans exhale as a waste product of respiration?",
+          "optionA": "Oxygen",
+          "optionB": "Carbon dioxide",
+          "optionC": "Nitrogen",
+          "optionD": "Hydrogen",
+          "correctOption": "B"
+        },
+        {
+          "text": "What instrument is used to measure atmospheric pressure?",
+          "optionA": "Thermometer",
+          "optionB": "Barometer",
+          "optionC": "Hygrometer",
+          "optionD": "Anemometer",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the freezing point of water in Celsius?",
+          "optionA": "-10",
+          "optionB": "0",
+          "optionC": "10",
+          "optionD": "32",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which organ in the human body produces insulin?",
+          "optionA": "Liver",
+          "optionB": "Kidney",
+          "optionC": "Pancreas",
+          "optionD": "Spleen",
+          "correctOption": "C"
+        },
+        {
+          "text": "What is the term for the change of state from a liquid to a gas?",
+          "optionA": "Condensation",
+          "optionB": "Evaporation",
+          "optionC": "Sublimation",
+          "optionD": "Freezing",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which planet is famous for its prominent ring system?",
+          "optionA": "Mars",
+          "optionB": "Saturn",
+          "optionC": "Mercury",
+          "optionD": "Venus",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is DNA an abbreviation for?",
+          "optionA": "Deoxyribonucleic acid",
+          "optionB": "Diribonucleic acid",
+          "optionC": "Dioxyribose acid",
+          "optionD": "Deoxyribose nuclear acid",
+          "correctOption": "A"
+        },
+        {
+          "text": "Which scientist is credited with discovering penicillin?",
+          "optionA": "Marie Curie",
+          "optionB": "Alexander Fleming",
+          "optionC": "Louis Pasteur",
+          "optionD": "Robert Koch",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the term for a substance that speeds up a chemical reaction without being consumed?",
+          "optionA": "Reactant",
+          "optionB": "Catalyst",
+          "optionC": "Solvent",
+          "optionD": "Isotope",
+          "correctOption": "B"
+        },
+        {
+          "text": "How many planets are in our solar system, as currently classified?",
+          "optionA": "7",
+          "optionB": "8",
+          "optionC": "9",
+          "optionD": "10",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the main function of red blood cells?",
+          "optionA": "Fight infection",
+          "optionB": "Carry oxygen",
+          "optionC": "Clot blood",
+          "optionD": "Produce antibodies",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which type of energy is stored in a stretched rubber band?",
+          "optionA": "Kinetic",
+          "optionB": "Potential",
+          "optionC": "Thermal",
+          "optionD": "Chemical",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the term for the layer of gases surrounding the Earth?",
+          "optionA": "Biosphere",
+          "optionB": "Atmosphere",
+          "optionC": "Lithosphere",
+          "optionD": "Hydrosphere",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which metal is liquid at room temperature?",
+          "optionA": "Iron",
+          "optionB": "Mercury",
+          "optionC": "Lead",
+          "optionD": "Zinc",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the largest bone in the human body?",
+          "optionA": "Tibia",
+          "optionB": "Fibula",
+          "optionC": "Femur",
+          "optionD": "Humerus",
+          "correctOption": "C"
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "questions": [
+        {
+          "text": "What is the capital of France?",
+          "optionA": "Lyon",
+          "optionB": "Marseille",
+          "optionC": "Paris",
+          "optionD": "Nice",
+          "correctOption": "C"
+        },
+        {
+          "text": "What is the longest river in the world?",
+          "optionA": "Amazon",
+          "optionB": "Nile",
+          "optionC": "Yangtze",
+          "optionD": "Mississippi",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which is the largest continent by area?",
+          "optionA": "Africa",
+          "optionB": "Asia",
+          "optionC": "North America",
+          "optionD": "Europe",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the smallest country in the world by area?",
+          "optionA": "Monaco",
+          "optionB": "San Marino",
+          "optionC": "Vatican City",
+          "optionD": "Liechtenstein",
+          "correctOption": "C"
+        },
+        {
+          "text": "Mount Everest is located in which mountain range?",
+          "optionA": "Andes",
+          "optionB": "Alps",
+          "optionC": "Himalayas",
+          "optionD": "Rockies",
+          "correctOption": "C"
+        },
+        {
+          "text": "What is the capital of Japan?",
+          "optionA": "Osaka",
+          "optionB": "Kyoto",
+          "optionC": "Tokyo",
+          "optionD": "Yokohama",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which desert is the largest hot desert in the world?",
+          "optionA": "Gobi",
+          "optionB": "Sahara",
+          "optionC": "Kalahari",
+          "optionD": "Mojave",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the capital of Australia?",
+          "optionA": "Sydney",
+          "optionB": "Melbourne",
+          "optionC": "Canberra",
+          "optionD": "Perth",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which country has the largest population in the world?",
+          "optionA": "United States",
+          "optionB": "India",
+          "optionC": "China",
+          "optionD": "Indonesia",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the smallest continent by area?",
+          "optionA": "Europe",
+          "optionB": "Australia",
+          "optionC": "Antarctica",
+          "optionD": "South America",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which ocean is the largest by area?",
+          "optionA": "Atlantic",
+          "optionB": "Indian",
+          "optionC": "Arctic",
+          "optionD": "Pacific",
+          "correctOption": "D"
+        },
+        {
+          "text": "What is the capital of Canada?",
+          "optionA": "Toronto",
+          "optionB": "Vancouver",
+          "optionC": "Ottawa",
+          "optionD": "Montreal",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which country is known as the Land of the Rising Sun?",
+          "optionA": "China",
+          "optionB": "Japan",
+          "optionC": "South Korea",
+          "optionD": "Thailand",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the capital of Egypt?",
+          "optionA": "Alexandria",
+          "optionB": "Cairo",
+          "optionC": "Giza",
+          "optionD": "Luxor",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which river flows through London?",
+          "optionA": "Seine",
+          "optionB": "Thames",
+          "optionC": "Rhine",
+          "optionD": "Danube",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the capital of Brazil?",
+          "optionA": "Rio de Janeiro",
+          "optionB": "Sao Paulo",
+          "optionC": "Brasilia",
+          "optionD": "Salvador",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which mountain range separates Europe and Asia?",
+          "optionA": "Alps",
+          "optionB": "Ural Mountains",
+          "optionC": "Himalayas",
+          "optionD": "Carpathians",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the capital of Germany?",
+          "optionA": "Munich",
+          "optionB": "Frankfurt",
+          "optionC": "Berlin",
+          "optionD": "Hamburg",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which country has the most time zones, due to its overseas territories?",
+          "optionA": "United States",
+          "optionB": "Russia",
+          "optionC": "China",
+          "optionD": "France",
+          "correctOption": "D"
+        },
+        {
+          "text": "What is the capital of Italy?",
+          "optionA": "Milan",
+          "optionB": "Naples",
+          "optionC": "Rome",
+          "optionD": "Turin",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which African country was formerly known as Abyssinia?",
+          "optionA": "Kenya",
+          "optionB": "Ethiopia",
+          "optionC": "Sudan",
+          "optionD": "Somalia",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the capital of Russia?",
+          "optionA": "St. Petersburg",
+          "optionB": "Moscow",
+          "optionC": "Kazan",
+          "optionD": "Novosibirsk",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which lake is the largest freshwater lake by surface area in the world?",
+          "optionA": "Lake Victoria",
+          "optionB": "Lake Baikal",
+          "optionC": "Lake Superior",
+          "optionD": "Lake Tanganyika",
+          "correctOption": "C"
+        },
+        {
+          "text": "What is the capital of Spain?",
+          "optionA": "Barcelona",
+          "optionB": "Madrid",
+          "optionC": "Seville",
+          "optionD": "Valencia",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which country lies partly in both Europe and Asia?",
+          "optionA": "Turkey",
+          "optionB": "Egypt",
+          "optionC": "Morocco",
+          "optionD": "Greece",
+          "correctOption": "A"
+        },
+        {
+          "text": "What is the capital of South Korea?",
+          "optionA": "Busan",
+          "optionB": "Seoul",
+          "optionC": "Incheon",
+          "optionD": "Daegu",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which is the driest continent, excluding Antarctica?",
+          "optionA": "Africa",
+          "optionB": "Australia",
+          "optionC": "Asia",
+          "optionD": "South America",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the capital of Mexico?",
+          "optionA": "Guadalajara",
+          "optionB": "Cancun",
+          "optionC": "Mexico City",
+          "optionD": "Monterrey",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which strait separates Europe from Africa?",
+          "optionA": "Strait of Hormuz",
+          "optionB": "Strait of Gibraltar",
+          "optionC": "Bering Strait",
+          "optionD": "Strait of Malacca",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the capital of India?",
+          "optionA": "Mumbai",
+          "optionB": "New Delhi",
+          "optionC": "Kolkata",
+          "optionD": "Bangalore",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which country has the most natural lakes in the world?",
+          "optionA": "Canada",
+          "optionB": "Russia",
+          "optionC": "Finland",
+          "optionD": "United States",
+          "correctOption": "A"
+        },
+        {
+          "text": "What is the capital of Argentina?",
+          "optionA": "Rio de Janeiro",
+          "optionB": "Buenos Aires",
+          "optionC": "Santiago",
+          "optionD": "Montevideo",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which is the highest waterfall in the world?",
+          "optionA": "Niagara Falls",
+          "optionB": "Victoria Falls",
+          "optionC": "Angel Falls",
+          "optionD": "Iguazu Falls",
+          "correctOption": "C"
+        },
+        {
+          "text": "What is the capital of South Africa's legislative branch?",
+          "optionA": "Johannesburg",
+          "optionB": "Cape Town",
+          "optionC": "Pretoria",
+          "optionD": "Durban",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which sea is the saltiest body of water in the world?",
+          "optionA": "Red Sea",
+          "optionB": "Dead Sea",
+          "optionC": "Caspian Sea",
+          "optionD": "Black Sea",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the capital of Turkey?",
+          "optionA": "Istanbul",
+          "optionB": "Ankara",
+          "optionC": "Izmir",
+          "optionD": "Antalya",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which country consists of over 17,000 islands?",
+          "optionA": "Philippines",
+          "optionB": "Indonesia",
+          "optionC": "Japan",
+          "optionD": "Malaysia",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the capital of Greece?",
+          "optionA": "Thessaloniki",
+          "optionB": "Athens",
+          "optionC": "Patras",
+          "optionD": "Heraklion",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which continent is the Sahara Desert located on?",
+          "optionA": "Asia",
+          "optionB": "Africa",
+          "optionC": "Australia",
+          "optionD": "South America",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the capital of China?",
+          "optionA": "Shanghai",
+          "optionB": "Beijing",
+          "optionC": "Hong Kong",
+          "optionD": "Guangzhou",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which US state is the largest by area?",
+          "optionA": "Texas",
+          "optionB": "California",
+          "optionC": "Alaska",
+          "optionD": "Montana",
+          "correctOption": "C"
+        },
+        {
+          "text": "What is the capital of Portugal?",
+          "optionA": "Porto",
+          "optionB": "Lisbon",
+          "optionC": "Faro",
+          "optionD": "Coimbra",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which country is home to Machu Picchu?",
+          "optionA": "Bolivia",
+          "optionB": "Chile",
+          "optionC": "Peru",
+          "optionD": "Ecuador",
+          "correctOption": "C"
+        },
+        {
+          "text": "What is the capital of the Netherlands?",
+          "optionA": "Rotterdam",
+          "optionB": "The Hague",
+          "optionC": "Amsterdam",
+          "optionD": "Utrecht",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which is the longest mountain range in the world?",
+          "optionA": "Himalayas",
+          "optionB": "Rockies",
+          "optionC": "Andes",
+          "optionD": "Alps",
+          "correctOption": "C"
+        }
+      ]
+    },
+    {
+      "name": "Sports",
+      "questions": [
+        {
+          "text": "How many players are on a standard soccer team on the field at one time?",
+          "optionA": "9",
+          "optionB": "10",
+          "optionC": "11",
+          "optionD": "12",
+          "correctOption": "C"
+        },
+        {
+          "text": "In which sport would you perform a slam dunk?",
+          "optionA": "Volleyball",
+          "optionB": "Basketball",
+          "optionC": "Tennis",
+          "optionD": "Baseball",
+          "correctOption": "B"
+        },
+        {
+          "text": "How often are the Summer Olympic Games held?",
+          "optionA": "Every 2 years",
+          "optionB": "Every 4 years",
+          "optionC": "Every 5 years",
+          "optionD": "Every 6 years",
+          "correctOption": "B"
+        },
+        {
+          "text": "What sport is known as \"the beautiful game\"?",
+          "optionA": "Basketball",
+          "optionB": "Soccer",
+          "optionC": "Cricket",
+          "optionD": "Rugby",
+          "correctOption": "B"
+        },
+        {
+          "text": "In tennis, what is a score of zero called?",
+          "optionA": "Deuce",
+          "optionB": "Ace",
+          "optionC": "Love",
+          "optionD": "Fault",
+          "correctOption": "C"
+        },
+        {
+          "text": "How many points is a touchdown worth in American football?",
+          "optionA": "3",
+          "optionB": "6",
+          "optionC": "7",
+          "optionD": "8",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which country has won the most FIFA World Cups?",
+          "optionA": "Germany",
+          "optionB": "Argentina",
+          "optionC": "Brazil",
+          "optionD": "Italy",
+          "correctOption": "C"
+        },
+        {
+          "text": "In golf, what term describes one stroke under par?",
+          "optionA": "Bogey",
+          "optionB": "Eagle",
+          "optionC": "Birdie",
+          "optionD": "Albatross",
+          "correctOption": "C"
+        },
+        {
+          "text": "How many rings are on the Olympic flag?",
+          "optionA": "4",
+          "optionB": "5",
+          "optionC": "6",
+          "optionD": "7",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the maximum score possible in ten-pin bowling?",
+          "optionA": "200",
+          "optionB": "250",
+          "optionC": "300",
+          "optionD": "350",
+          "correctOption": "C"
+        },
+        {
+          "text": "In which sport do athletes use a shuttlecock?",
+          "optionA": "Tennis",
+          "optionB": "Badminton",
+          "optionC": "Squash",
+          "optionD": "Table tennis",
+          "correctOption": "B"
+        },
+        {
+          "text": "How many players are on a basketball team on the court at one time?",
+          "optionA": "4",
+          "optionB": "5",
+          "optionC": "6",
+          "optionD": "7",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which country hosted the 2016 Summer Olympics?",
+          "optionA": "China",
+          "optionB": "United Kingdom",
+          "optionC": "Brazil",
+          "optionD": "Japan",
+          "correctOption": "C"
+        },
+        {
+          "text": "In boxing, how many rounds are typically in a professional championship fight?",
+          "optionA": "8",
+          "optionB": "10",
+          "optionC": "12",
+          "optionD": "15",
+          "correctOption": "C"
+        },
+        {
+          "text": "What is the term for a score of three under par on a single hole in golf?",
+          "optionA": "Eagle",
+          "optionB": "Albatross",
+          "optionC": "Condor",
+          "optionD": "Birdie",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which sport is played at Wimbledon?",
+          "optionA": "Golf",
+          "optionB": "Tennis",
+          "optionC": "Cricket",
+          "optionD": "Rugby",
+          "correctOption": "B"
+        },
+        {
+          "text": "How many periods are in a standard ice hockey game?",
+          "optionA": "2",
+          "optionB": "3",
+          "optionC": "4",
+          "optionD": "5",
+          "correctOption": "B"
+        },
+        {
+          "text": "How many players make up a rugby union team on the field?",
+          "optionA": "11",
+          "optionB": "13",
+          "optionC": "15",
+          "optionD": "17",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which country is credited with inventing table tennis?",
+          "optionA": "China",
+          "optionB": "Japan",
+          "optionC": "England",
+          "optionD": "United States",
+          "correctOption": "C"
+        },
+        {
+          "text": "In which sport is the term \"love\" used to indicate zero points?",
+          "optionA": "Squash",
+          "optionB": "Tennis",
+          "optionC": "Badminton",
+          "optionD": "Table tennis",
+          "correctOption": "B"
+        },
+        {
+          "text": "How many holes are played in a standard round of golf?",
+          "optionA": "9",
+          "optionB": "16",
+          "optionC": "18",
+          "optionD": "21",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which athlete is known as \"the fastest man alive,\" having set multiple sprint world records?",
+          "optionA": "Carl Lewis",
+          "optionB": "Usain Bolt",
+          "optionC": "Justin Gatlin",
+          "optionD": "Tyson Gay",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which sport uses terms like \"birdie,\" \"bogey,\" and \"par\"?",
+          "optionA": "Tennis",
+          "optionB": "Golf",
+          "optionC": "Cricket",
+          "optionD": "Bowling",
+          "correctOption": "B"
+        },
+        {
+          "text": "How many bases are there in a standard game of baseball, excluding home plate?",
+          "optionA": "2",
+          "optionB": "3",
+          "optionC": "4",
+          "optionD": "5",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which country invented the sport of cricket?",
+          "optionA": "Australia",
+          "optionB": "India",
+          "optionC": "England",
+          "optionD": "South Africa",
+          "correctOption": "C"
+        },
+        {
+          "text": "In swimming, which stroke is typically the fastest?",
+          "optionA": "Backstroke",
+          "optionB": "Breaststroke",
+          "optionC": "Freestyle",
+          "optionD": "Butterfly",
+          "correctOption": "C"
+        },
+        {
+          "text": "How many players are on a volleyball team on the court at one time?",
+          "optionA": "5",
+          "optionB": "6",
+          "optionC": "7",
+          "optionD": "8",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the term for a perfect score in gymnastics under the old scoring system?",
+          "optionA": "9.5",
+          "optionB": "10.0",
+          "optionC": "100",
+          "optionD": "9.9",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which Grand Slam tennis tournament is played on clay courts?",
+          "optionA": "Wimbledon",
+          "optionB": "US Open",
+          "optionC": "French Open",
+          "optionD": "Australian Open",
+          "correctOption": "C"
+        },
+        {
+          "text": "How many non-goalie skaters are on each team on the ice in hockey?",
+          "optionA": "4",
+          "optionB": "5",
+          "optionC": "6",
+          "optionD": "7",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which country has won the most Olympic gold medals overall in history?",
+          "optionA": "Russia",
+          "optionB": "China",
+          "optionC": "United States",
+          "optionD": "Great Britain",
+          "correctOption": "C"
+        },
+        {
+          "text": "In American football, how many downs does a team get to advance 10 yards?",
+          "optionA": "2",
+          "optionB": "3",
+          "optionC": "4",
+          "optionD": "5",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which sport features the Ashes rivalry between England and Australia?",
+          "optionA": "Rugby",
+          "optionB": "Cricket",
+          "optionC": "Soccer",
+          "optionD": "Field hockey",
+          "correctOption": "B"
+        },
+        {
+          "text": "How many minutes are in a standard soccer match, excluding stoppage time?",
+          "optionA": "80",
+          "optionB": "90",
+          "optionC": "100",
+          "optionD": "120",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which racket sport is played on a court with a net height lower in the middle?",
+          "optionA": "Badminton",
+          "optionB": "Tennis",
+          "optionC": "Squash",
+          "optionD": "Table tennis",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is it called when a tennis serve touches the net but still lands in the correct service box?",
+          "optionA": "Fault",
+          "optionB": "Let",
+          "optionC": "Ace",
+          "optionD": "Deuce",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which country won the first-ever FIFA World Cup in 1930?",
+          "optionA": "Brazil",
+          "optionB": "Argentina",
+          "optionC": "Uruguay",
+          "optionD": "Italy",
+          "correctOption": "C"
+        },
+        {
+          "text": "In basketball, how many points is a shot from beyond the three-point line worth?",
+          "optionA": "1",
+          "optionB": "2",
+          "optionC": "3",
+          "optionD": "4",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which Olympic event involves running, swimming, and cycling combined?",
+          "optionA": "Decathlon",
+          "optionB": "Triathlon",
+          "optionC": "Pentathlon",
+          "optionD": "Biathlon",
+          "correctOption": "B"
+        },
+        {
+          "text": "How many players are on a standard cricket team?",
+          "optionA": "9",
+          "optionB": "10",
+          "optionC": "11",
+          "optionD": "12",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which country is famous for inventing the sport of judo?",
+          "optionA": "China",
+          "optionB": "Japan",
+          "optionC": "South Korea",
+          "optionD": "Thailand",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the nickname of the trophy awarded to the winner of the UEFA Champions League?",
+          "optionA": "The Jules Rimet Trophy",
+          "optionB": "The \"Cup with the Big Ears\"",
+          "optionC": "The FA Cup",
+          "optionD": "The Ballon d'Or",
+          "correctOption": "B"
+        },
+        {
+          "text": "In Formula 1, how many points does a race winner receive under the current points system?",
+          "optionA": "20",
+          "optionB": "25",
+          "optionC": "30",
+          "optionD": "15",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which sport is most associated with the term \"hat-trick\" for scoring three goals in one game?",
+          "optionA": "Soccer",
+          "optionB": "Basketball",
+          "optionC": "Tennis",
+          "optionD": "Golf",
+          "correctOption": "A"
+        },
+        {
+          "text": "How many Grand Slam tennis tournaments are there each year?",
+          "optionA": "2",
+          "optionB": "3",
+          "optionC": "4",
+          "optionD": "5",
+          "correctOption": "C"
+        }
+      ]
+    },
+    {
+      "name": "Movies",
+      "questions": [
+        {
+          "text": "Who directed the movie \"Jaws\"?",
+          "optionA": "George Lucas",
+          "optionB": "Steven Spielberg",
+          "optionC": "Martin Scorsese",
+          "optionD": "Francis Ford Coppola",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which movie features the character Jack Dawson?",
+          "optionA": "The Terminator",
+          "optionB": "Titanic",
+          "optionC": "Avatar",
+          "optionD": "Inception",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who played the character of Iron Man in the Marvel Cinematic Universe?",
+          "optionA": "Chris Evans",
+          "optionB": "Chris Hemsworth",
+          "optionC": "Robert Downey Jr.",
+          "optionD": "Mark Ruffalo",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which animated movie features a clownfish searching for his son?",
+          "optionA": "Shark Tale",
+          "optionB": "Finding Nemo",
+          "optionC": "The Little Mermaid",
+          "optionD": "Moana",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who directed the \"Lord of the Rings\" trilogy?",
+          "optionA": "James Cameron",
+          "optionB": "Peter Jackson",
+          "optionC": "Christopher Nolan",
+          "optionD": "Ridley Scott",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which 1994 film starring Tom Hanks tells the story of a man with a low IQ who witnesses key historical events?",
+          "optionA": "Cast Away",
+          "optionB": "Forrest Gump",
+          "optionC": "Big",
+          "optionD": "Philadelphia",
+          "correctOption": "B"
+        },
+        {
+          "text": "In \"Star Wars,\" who is Luke Skywalker's first mentor?",
+          "optionA": "Yoda",
+          "optionB": "Obi-Wan Kenobi",
+          "optionC": "Han Solo",
+          "optionD": "Darth Vader",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which movie features a shark terrorizing a beach town called Amity Island?",
+          "optionA": "Jaws",
+          "optionB": "The Meg",
+          "optionC": "Open Water",
+          "optionD": "Deep Blue Sea",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who played the Joker in \"The Dark Knight\" (2008)?",
+          "optionA": "Jared Leto",
+          "optionB": "Heath Ledger",
+          "optionC": "Joaquin Phoenix",
+          "optionD": "Jack Nicholson",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which Disney movie features a snowman named Olaf?",
+          "optionA": "Tangled",
+          "optionB": "Frozen",
+          "optionC": "Moana",
+          "optionD": "Brave",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who directed \"Pulp Fiction\"?",
+          "optionA": "Quentin Tarantino",
+          "optionB": "Martin Scorsese",
+          "optionC": "David Fincher",
+          "optionD": "Oliver Stone",
+          "correctOption": "A"
+        },
+        {
+          "text": "Which movie is famous for the line \"I'll be back\"?",
+          "optionA": "Total Recall",
+          "optionB": "The Terminator",
+          "optionC": "Predator",
+          "optionD": "RoboCop",
+          "correctOption": "B"
+        },
+        {
+          "text": "In which movie does a group of toys come to life when humans aren't watching?",
+          "optionA": "Toy Story",
+          "optionB": "The Incredibles",
+          "optionC": "Cars",
+          "optionD": "Monsters, Inc.",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who played Katniss Everdeen in \"The Hunger Games\" film series?",
+          "optionA": "Emma Watson",
+          "optionB": "Jennifer Lawrence",
+          "optionC": "Kristen Stewart",
+          "optionD": "Shailene Woodley",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which movie won the Academy Award for Best Picture for the 2019 film year?",
+          "optionA": "1917",
+          "optionB": "Joker",
+          "optionC": "Parasite",
+          "optionD": "Once Upon a Time in Hollywood",
+          "correctOption": "C"
+        },
+        {
+          "text": "Who directed \"Jurassic Park\"?",
+          "optionA": "James Cameron",
+          "optionB": "Steven Spielberg",
+          "optionC": "Ridley Scott",
+          "optionD": "Tim Burton",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which actor played Neo in \"The Matrix\"?",
+          "optionA": "Brad Pitt",
+          "optionB": "Keanu Reeves",
+          "optionC": "Tom Cruise",
+          "optionD": "Will Smith",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which movie features a house that flies using thousands of balloons?",
+          "optionA": "Up",
+          "optionB": "Coco",
+          "optionC": "Inside Out",
+          "optionD": "WALL-E",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who directed \"Inception\"?",
+          "optionA": "Christopher Nolan",
+          "optionB": "Denis Villeneuve",
+          "optionC": "James Cameron",
+          "optionD": "Ridley Scott",
+          "correctOption": "A"
+        },
+        {
+          "text": "Which film series features a boy wizard named Harry Potter?",
+          "optionA": "Narnia",
+          "optionB": "Harry Potter",
+          "optionC": "Percy Jackson",
+          "optionD": "His Dark Materials",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who played the title role in \"Forrest Gump\"?",
+          "optionA": "Tom Cruise",
+          "optionB": "Tom Hanks",
+          "optionC": "Kevin Costner",
+          "optionD": "Robin Williams",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which movie features the quote \"May the Force be with you\"?",
+          "optionA": "Star Trek",
+          "optionB": "Star Wars",
+          "optionC": "Guardians of the Galaxy",
+          "optionD": "Interstellar",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who directed \"Titanic\" (1997)?",
+          "optionA": "James Cameron",
+          "optionB": "Steven Spielberg",
+          "optionC": "Ron Howard",
+          "optionD": "Michael Bay",
+          "correctOption": "A"
+        },
+        {
+          "text": "Which animated film features a Scottish princess who wishes to change her fate?",
+          "optionA": "Frozen",
+          "optionB": "Brave",
+          "optionC": "Moana",
+          "optionD": "Tangled",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who played Wolverine in the X-Men film series?",
+          "optionA": "Ryan Reynolds",
+          "optionB": "Hugh Jackman",
+          "optionC": "Chris Hemsworth",
+          "optionD": "Tom Hardy",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which 1975 movie is about a great white shark terrorizing swimmers?",
+          "optionA": "Jaws",
+          "optionB": "Piranha",
+          "optionC": "Sharknado",
+          "optionD": "The Shallows",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who directed \"The Godfather\"?",
+          "optionA": "Martin Scorsese",
+          "optionB": "Francis Ford Coppola",
+          "optionC": "Sidney Lumet",
+          "optionD": "Sergio Leone",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which movie features a rabbit named Judy Hopps?",
+          "optionA": "Zootopia",
+          "optionB": "Sing",
+          "optionC": "The Secret Life of Pets",
+          "optionD": "Bolt",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who played the character Tony Stark in the Marvel films?",
+          "optionA": "Chris Pratt",
+          "optionB": "Robert Downey Jr.",
+          "optionC": "Paul Rudd",
+          "optionD": "Chadwick Boseman",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which movie is set in the fictional land of Wakanda?",
+          "optionA": "Thor",
+          "optionB": "Black Panther",
+          "optionC": "Doctor Strange",
+          "optionD": "Guardians of the Galaxy",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who directed \"Schindler's List\"?",
+          "optionA": "Steven Spielberg",
+          "optionB": "Oliver Stone",
+          "optionC": "Roman Polanski",
+          "optionD": "Ang Lee",
+          "correctOption": "A"
+        },
+        {
+          "text": "Which movie features an ogre named Shrek?",
+          "optionA": "Shrek",
+          "optionB": "Hoodwinked",
+          "optionC": "Puss in Boots",
+          "optionD": "Trolls",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who played Dorothy in \"The Wizard of Oz\" (1939)?",
+          "optionA": "Shirley Temple",
+          "optionB": "Judy Garland",
+          "optionC": "Deanna Durbin",
+          "optionD": "Ginger Rogers",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which movie franchise features a British spy with the code number 007?",
+          "optionA": "Mission Impossible",
+          "optionB": "James Bond",
+          "optionC": "The Bourne series",
+          "optionD": "Kingsman",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who directed \"Avatar\" (2009)?",
+          "optionA": "James Cameron",
+          "optionB": "Peter Jackson",
+          "optionC": "George Lucas",
+          "optionD": "Ridley Scott",
+          "correctOption": "A"
+        },
+        {
+          "text": "Which movie features a young lion named Simba?",
+          "optionA": "The Lion King",
+          "optionB": "Madagascar",
+          "optionC": "Zootopia",
+          "optionD": "Kung Fu Panda",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who played the Terminator in the original \"Terminator\" film?",
+          "optionA": "Sylvester Stallone",
+          "optionB": "Arnold Schwarzenegger",
+          "optionC": "Jean-Claude Van Damme",
+          "optionD": "Dolph Lundgren",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which film won the first-ever Academy Award for Best Picture?",
+          "optionA": "Wings",
+          "optionB": "Gone with the Wind",
+          "optionC": "Casablanca",
+          "optionD": "It Happened One Night",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who directed \"E.T. the Extra-Terrestrial\"?",
+          "optionA": "George Lucas",
+          "optionB": "Steven Spielberg",
+          "optionC": "Robert Zemeckis",
+          "optionD": "James Cameron",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which movie features a fish named Dory helping search for a lost son?",
+          "optionA": "Finding Nemo",
+          "optionB": "Shark Tale",
+          "optionC": "The Little Mermaid",
+          "optionD": "Moana",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who voiced Elsa in Disney's \"Frozen\"?",
+          "optionA": "Kristen Bell",
+          "optionB": "Idina Menzel",
+          "optionC": "Demi Lovato",
+          "optionD": "Ariana Grande",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which movie is based on the true story of the 1970 Apollo 13 mission?",
+          "optionA": "Apollo 13",
+          "optionB": "The Right Stuff",
+          "optionC": "Hidden Figures",
+          "optionD": "First Man",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who directed \"Goodfellas\"?",
+          "optionA": "Francis Ford Coppola",
+          "optionB": "Martin Scorsese",
+          "optionC": "Brian De Palma",
+          "optionD": "Michael Mann",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which movie features the phrase \"Here's looking at you, kid\"?",
+          "optionA": "Gone with the Wind",
+          "optionB": "Casablanca",
+          "optionC": "Some Like It Hot",
+          "optionD": "Roman Holiday",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who played Captain Jack Sparrow in \"Pirates of the Caribbean\"?",
+          "optionA": "Orlando Bloom",
+          "optionB": "Johnny Depp",
+          "optionC": "Geoffrey Rush",
+          "optionD": "Javier Bardem",
+          "correctOption": "B"
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "questions": [
+        {
+          "text": "Which band released the album \"Abbey Road\"?",
+          "optionA": "The Rolling Stones",
+          "optionB": "The Beatles",
+          "optionC": "Led Zeppelin",
+          "optionD": "Pink Floyd",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who is known as the \"King of Pop\"?",
+          "optionA": "Elvis Presley",
+          "optionB": "Michael Jackson",
+          "optionC": "Prince",
+          "optionD": "James Brown",
+          "correctOption": "B"
+        },
+        {
+          "text": "How many strings does a standard guitar have?",
+          "optionA": "4",
+          "optionB": "5",
+          "optionC": "6",
+          "optionD": "7",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which artist released the album \"Thriller\"?",
+          "optionA": "Prince",
+          "optionB": "Michael Jackson",
+          "optionC": "Whitney Houston",
+          "optionD": "Madonna",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which composer wrote the \"Ninth Symphony,\" famous for \"Ode to Joy\"?",
+          "optionA": "Mozart",
+          "optionB": "Bach",
+          "optionC": "Beethoven",
+          "optionD": "Brahms",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which band performed \"Bohemian Rhapsody\"?",
+          "optionA": "Queen",
+          "optionB": "The Who",
+          "optionC": "Led Zeppelin",
+          "optionD": "The Eagles",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who is known as the \"Queen of Soul\"?",
+          "optionA": "Diana Ross",
+          "optionB": "Aretha Franklin",
+          "optionC": "Tina Turner",
+          "optionD": "Whitney Houston",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which instrument has keys, pedals, and strings, played by pressing keys?",
+          "optionA": "Violin",
+          "optionB": "Piano",
+          "optionC": "Harp",
+          "optionD": "Organ",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which artist is known for the song \"Like a Virgin\"?",
+          "optionA": "Cyndi Lauper",
+          "optionB": "Madonna",
+          "optionC": "Whitney Houston",
+          "optionD": "Cher",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which composer is known for \"The Four Seasons\"?",
+          "optionA": "Bach",
+          "optionB": "Vivaldi",
+          "optionC": "Mozart",
+          "optionD": "Handel",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which band was John Lennon a member of?",
+          "optionA": "The Rolling Stones",
+          "optionB": "The Beatles",
+          "optionC": "Pink Floyd",
+          "optionD": "The Who",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which musical instrument is Yo-Yo Ma famous for playing?",
+          "optionA": "Violin",
+          "optionB": "Cello",
+          "optionC": "Piano",
+          "optionD": "Flute",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which artist released \"Purple Rain\"?",
+          "optionA": "Prince",
+          "optionB": "Michael Jackson",
+          "optionC": "David Bowie",
+          "optionD": "George Michael",
+          "correctOption": "A"
+        },
+        {
+          "text": "How many members were in the original lineup of the Beatles?",
+          "optionA": "3",
+          "optionB": "4",
+          "optionC": "5",
+          "optionD": "6",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which country music legend was known as \"The Man in Black\"?",
+          "optionA": "Willie Nelson",
+          "optionB": "Johnny Cash",
+          "optionC": "Kris Kristofferson",
+          "optionD": "Waylon Jennings",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which pop star is known as \"Queen Bey\"?",
+          "optionA": "Rihanna",
+          "optionB": "Beyonce",
+          "optionC": "Alicia Keys",
+          "optionD": "Nicki Minaj",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which composer, though deaf later in life, continued to compose some of his most famous works?",
+          "optionA": "Mozart",
+          "optionB": "Beethoven",
+          "optionC": "Chopin",
+          "optionD": "Liszt",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which band released \"Stairway to Heaven\"?",
+          "optionA": "Led Zeppelin",
+          "optionB": "Deep Purple",
+          "optionC": "Black Sabbath",
+          "optionD": "The Who",
+          "correctOption": "A"
+        },
+        {
+          "text": "Which artist is known for the song \"Rolling in the Deep\"?",
+          "optionA": "Amy Winehouse",
+          "optionB": "Adele",
+          "optionC": "Duffy",
+          "optionD": "Sam Smith",
+          "correctOption": "B"
+        },
+        {
+          "text": "What does the abbreviation \"DJ\" stand for?",
+          "optionA": "Disc Jockey",
+          "optionB": "Dance Jockey",
+          "optionC": "Digital Jockey",
+          "optionD": "Drum Jockey",
+          "correctOption": "A"
+        },
+        {
+          "text": "Which singer is known as \"The King of Rock and Roll\"?",
+          "optionA": "Chuck Berry",
+          "optionB": "Elvis Presley",
+          "optionC": "Little Richard",
+          "optionD": "Buddy Holly",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which musical instrument family does the trumpet belong to?",
+          "optionA": "Woodwind",
+          "optionB": "Brass",
+          "optionC": "Percussion",
+          "optionD": "String",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which artist released the album \"21,\" featuring \"Rolling in the Deep\"?",
+          "optionA": "Adele",
+          "optionB": "Amy Winehouse",
+          "optionC": "Duffy",
+          "optionD": "Emeli Sande",
+          "correctOption": "A"
+        },
+        {
+          "text": "Which band is famous for the song \"Hotel California\"?",
+          "optionA": "The Eagles",
+          "optionB": "Fleetwood Mac",
+          "optionC": "The Doors",
+          "optionD": "Creedence Clearwater Revival",
+          "correctOption": "A"
+        },
+        {
+          "text": "What is the term for a group of singers performing together?",
+          "optionA": "Orchestra",
+          "optionB": "Choir",
+          "optionC": "Ensemble",
+          "optionD": "Band",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which composer wrote \"The Magic Flute\"?",
+          "optionA": "Mozart",
+          "optionB": "Beethoven",
+          "optionC": "Verdi",
+          "optionD": "Wagner",
+          "correctOption": "A"
+        },
+        {
+          "text": "Which artist is known for the song \"Shape of You\"?",
+          "optionA": "Justin Bieber",
+          "optionB": "Ed Sheeran",
+          "optionC": "Shawn Mendes",
+          "optionD": "Charlie Puth",
+          "correctOption": "B"
+        },
+        {
+          "text": "What is the name of the highest female singing voice?",
+          "optionA": "Alto",
+          "optionB": "Mezzo-soprano",
+          "optionC": "Soprano",
+          "optionD": "Contralto",
+          "correctOption": "C"
+        },
+        {
+          "text": "Which band released the album \"Dark Side of the Moon\"?",
+          "optionA": "Pink Floyd",
+          "optionB": "Led Zeppelin",
+          "optionC": "The Rolling Stones",
+          "optionD": "Genesis",
+          "correctOption": "A"
+        },
+        {
+          "text": "Which artist is known as \"The Boss\"?",
+          "optionA": "Bob Dylan",
+          "optionB": "Bruce Springsteen",
+          "optionC": "Bob Seger",
+          "optionD": "Tom Petty",
+          "correctOption": "B"
+        },
+        {
+          "text": "What instrument does a percussionist typically play?",
+          "optionA": "Violin",
+          "optionB": "Drums",
+          "optionC": "Flute",
+          "optionD": "Trumpet",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which girl group released the song \"Wannabe\"?",
+          "optionA": "Destiny's Child",
+          "optionB": "Spice Girls",
+          "optionC": "TLC",
+          "optionD": "The Pussycat Dolls",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which composer wrote \"Swan Lake\"?",
+          "optionA": "Tchaikovsky",
+          "optionB": "Stravinsky",
+          "optionC": "Rachmaninoff",
+          "optionD": "Prokofiev",
+          "correctOption": "A"
+        },
+        {
+          "text": "Which artist released \"Bad Guy\" in 2019?",
+          "optionA": "Halsey",
+          "optionB": "Billie Eilish",
+          "optionC": "Olivia Rodrigo",
+          "optionD": "Lorde",
+          "correctOption": "B"
+        },
+        {
+          "text": "What does \"a cappella\" mean in music?",
+          "optionA": "With instruments",
+          "optionB": "Without instrumental accompaniment",
+          "optionC": "With an orchestra",
+          "optionD": "Loudly",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which band is fronted by Mick Jagger?",
+          "optionA": "The Beatles",
+          "optionB": "The Rolling Stones",
+          "optionC": "The Who",
+          "optionD": "Pink Floyd",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which musical term means \"gradually getting louder\"?",
+          "optionA": "Diminuendo",
+          "optionB": "Crescendo",
+          "optionC": "Staccato",
+          "optionD": "Legato",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which artist is known for the song \"Rehab\"?",
+          "optionA": "Duffy",
+          "optionB": "Amy Winehouse",
+          "optionC": "Adele",
+          "optionD": "Lily Allen",
+          "correctOption": "B"
+        },
+        {
+          "text": "How many keys are on a standard piano?",
+          "optionA": "76",
+          "optionB": "88",
+          "optionC": "92",
+          "optionD": "100",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which composer wrote a \"Requiem\" and died before completing it?",
+          "optionA": "Beethoven",
+          "optionB": "Mozart",
+          "optionC": "Haydn",
+          "optionD": "Schubert",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which rapper released the album \"The Marshall Mathers LP\"?",
+          "optionA": "Jay-Z",
+          "optionB": "Eminem",
+          "optionC": "50 Cent",
+          "optionD": "Dr. Dre",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which genre of music originated in Jamaica and is closely associated with Bob Marley?",
+          "optionA": "Reggae",
+          "optionB": "Ska",
+          "optionC": "Calypso",
+          "optionD": "Soca",
+          "correctOption": "A"
+        },
+        {
+          "text": "Which pop star released the album \"1989\"?",
+          "optionA": "Katy Perry",
+          "optionB": "Taylor Swift",
+          "optionC": "Ariana Grande",
+          "optionD": "Selena Gomez",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which classical composer is known for \"Fur Elise\"?",
+          "optionA": "Mozart",
+          "optionB": "Beethoven",
+          "optionC": "Chopin",
+          "optionD": "Liszt",
+          "correctOption": "B"
+        },
+        {
+          "text": "Which band is known for the song \"Smells Like Teen Spirit\"?",
+          "optionA": "Pearl Jam",
+          "optionB": "Nirvana",
+          "optionC": "Soundgarden",
+          "optionD": "Alice in Chains",
+          "correctOption": "B"
+        }
+      ]
+    },
+    {
+      "name": "Literature",
+      "questions": [
+        {
+          "text": "Who wrote \"Romeo and Juliet\"?",
+          "optionA": "Charles Dickens",
+          "optionB": "William Shakespeare",
+          "optionC": "Mark Twain",
+          "optionD": "Jane Austen",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"Pride and Prejudice\"?",
+          "optionA": "Charlotte Bronte",
+          "optionB": "Jane Austen",
+          "optionC": "Emily Bronte",
+          "optionD": "George Eliot",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"1984\"?",
+          "optionA": "Aldous Huxley",
+          "optionB": "George Orwell",
+          "optionC": "Ray Bradbury",
+          "optionD": "H.G. Wells",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"To Kill a Mockingbird\"?",
+          "optionA": "Harper Lee",
+          "optionB": "Truman Capote",
+          "optionC": "Flannery O'Connor",
+          "optionD": "Carson McCullers",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"The Great Gatsby\"?",
+          "optionA": "Ernest Hemingway",
+          "optionB": "F. Scott Fitzgerald",
+          "optionC": "William Faulkner",
+          "optionD": "John Steinbeck",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote the \"Harry Potter\" series?",
+          "optionA": "J.R.R. Tolkien",
+          "optionB": "J.K. Rowling",
+          "optionC": "C.S. Lewis",
+          "optionD": "Roald Dahl",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"Moby-Dick\"?",
+          "optionA": "Herman Melville",
+          "optionB": "Mark Twain",
+          "optionC": "Nathaniel Hawthorne",
+          "optionD": "Edgar Allan Poe",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"War and Peace\"?",
+          "optionA": "Fyodor Dostoevsky",
+          "optionB": "Leo Tolstoy",
+          "optionC": "Anton Chekhov",
+          "optionD": "Ivan Turgenev",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"The Adventures of Huckleberry Finn\"?",
+          "optionA": "Mark Twain",
+          "optionB": "Herman Melville",
+          "optionC": "Nathaniel Hawthorne",
+          "optionD": "Washington Irving",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"Hamlet\"?",
+          "optionA": "Christopher Marlowe",
+          "optionB": "William Shakespeare",
+          "optionC": "Ben Jonson",
+          "optionD": "John Webster",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"The Lord of the Rings\"?",
+          "optionA": "C.S. Lewis",
+          "optionB": "J.R.R. Tolkien",
+          "optionC": "George R.R. Martin",
+          "optionD": "Terry Pratchett",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"Frankenstein\"?",
+          "optionA": "Bram Stoker",
+          "optionB": "Mary Shelley",
+          "optionC": "Emily Bronte",
+          "optionD": "Ann Radcliffe",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"Crime and Punishment\"?",
+          "optionA": "Leo Tolstoy",
+          "optionB": "Fyodor Dostoevsky",
+          "optionC": "Ivan Turgenev",
+          "optionD": "Nikolai Gogol",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"The Catcher in the Rye\"?",
+          "optionA": "J.D. Salinger",
+          "optionB": "John Updike",
+          "optionC": "Jack Kerouac",
+          "optionD": "Kurt Vonnegut",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"Don Quixote\"?",
+          "optionA": "Miguel de Cervantes",
+          "optionB": "Gabriel Garcia Marquez",
+          "optionC": "Jorge Luis Borges",
+          "optionD": "Pablo Neruda",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"Jane Eyre\"?",
+          "optionA": "Emily Bronte",
+          "optionB": "Charlotte Bronte",
+          "optionC": "Anne Bronte",
+          "optionD": "George Eliot",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"Wuthering Heights\"?",
+          "optionA": "Charlotte Bronte",
+          "optionB": "Emily Bronte",
+          "optionC": "Anne Bronte",
+          "optionD": "Jane Austen",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"The Chronicles of Narnia\"?",
+          "optionA": "J.R.R. Tolkien",
+          "optionB": "C.S. Lewis",
+          "optionC": "Roald Dahl",
+          "optionD": "Philip Pullman",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"A Tale of Two Cities\"?",
+          "optionA": "Charles Dickens",
+          "optionB": "Thomas Hardy",
+          "optionC": "William Thackeray",
+          "optionD": "Wilkie Collins",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"The Odyssey\"?",
+          "optionA": "Sophocles",
+          "optionB": "Homer",
+          "optionC": "Virgil",
+          "optionD": "Euripides",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"Brave New World\"?",
+          "optionA": "George Orwell",
+          "optionB": "Aldous Huxley",
+          "optionC": "Ray Bradbury",
+          "optionD": "Kurt Vonnegut",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"Fahrenheit 451\"?",
+          "optionA": "Isaac Asimov",
+          "optionB": "Ray Bradbury",
+          "optionC": "Philip K. Dick",
+          "optionD": "Arthur C. Clarke",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"Little Women\"?",
+          "optionA": "Louisa May Alcott",
+          "optionB": "Emily Dickinson",
+          "optionC": "Edith Wharton",
+          "optionD": "Kate Chopin",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"The Picture of Dorian Gray\"?",
+          "optionA": "Oscar Wilde",
+          "optionB": "Bram Stoker",
+          "optionC": "Arthur Conan Doyle",
+          "optionD": "Robert Louis Stevenson",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote the \"Sherlock Holmes\" stories?",
+          "optionA": "Agatha Christie",
+          "optionB": "Arthur Conan Doyle",
+          "optionC": "Wilkie Collins",
+          "optionD": "Edgar Allan Poe",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"One Hundred Years of Solitude\"?",
+          "optionA": "Gabriel Garcia Marquez",
+          "optionB": "Jorge Luis Borges",
+          "optionC": "Mario Vargas Llosa",
+          "optionD": "Isabel Allende",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"The Divine Comedy\"?",
+          "optionA": "Dante Alighieri",
+          "optionB": "Petrarch",
+          "optionC": "Boccaccio",
+          "optionD": "Machiavelli",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"Great Expectations\"?",
+          "optionA": "Charles Dickens",
+          "optionB": "Thomas Hardy",
+          "optionC": "George Eliot",
+          "optionD": "Anthony Trollope",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"Of Mice and Men\"?",
+          "optionA": "Ernest Hemingway",
+          "optionB": "John Steinbeck",
+          "optionC": "William Faulkner",
+          "optionD": "Sinclair Lewis",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"The Hobbit\"?",
+          "optionA": "C.S. Lewis",
+          "optionB": "J.R.R. Tolkien",
+          "optionC": "Ursula K. Le Guin",
+          "optionD": "Terry Pratchett",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote the play \"A Streetcar Named Desire\"?",
+          "optionA": "Arthur Miller",
+          "optionB": "Tennessee Williams",
+          "optionC": "Eugene O'Neill",
+          "optionD": "Edward Albee",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"Anna Karenina\"?",
+          "optionA": "Fyodor Dostoevsky",
+          "optionB": "Leo Tolstoy",
+          "optionC": "Anton Chekhov",
+          "optionD": "Ivan Turgenev",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"The Grapes of Wrath\"?",
+          "optionA": "Ernest Hemingway",
+          "optionB": "John Steinbeck",
+          "optionC": "William Faulkner",
+          "optionD": "F. Scott Fitzgerald",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"Beloved\"?",
+          "optionA": "Alice Walker",
+          "optionB": "Toni Morrison",
+          "optionC": "Maya Angelou",
+          "optionD": "Zora Neale Hurston",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"The Old Man and the Sea\"?",
+          "optionA": "Ernest Hemingway",
+          "optionB": "John Steinbeck",
+          "optionC": "William Faulkner",
+          "optionD": "Norman Mailer",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"Alice's Adventures in Wonderland\"?",
+          "optionA": "Lewis Carroll",
+          "optionB": "J.M. Barrie",
+          "optionC": "A.A. Milne",
+          "optionD": "Kenneth Grahame",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"The Iliad\"?",
+          "optionA": "Homer",
+          "optionB": "Sophocles",
+          "optionC": "Virgil",
+          "optionD": "Hesiod",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"Ulysses\"?",
+          "optionA": "James Joyce",
+          "optionB": "Samuel Beckett",
+          "optionC": "W.B. Yeats",
+          "optionD": "Oscar Wilde",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"Slaughterhouse-Five\"?",
+          "optionA": "Kurt Vonnegut",
+          "optionB": "Joseph Heller",
+          "optionC": "Norman Mailer",
+          "optionD": "Philip Roth",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"The Scarlet Letter\"?",
+          "optionA": "Nathaniel Hawthorne",
+          "optionB": "Herman Melville",
+          "optionC": "Mark Twain",
+          "optionD": "Edgar Allan Poe",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"Dracula\"?",
+          "optionA": "Bram Stoker",
+          "optionB": "Mary Shelley",
+          "optionC": "Oscar Wilde",
+          "optionD": "Arthur Conan Doyle",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"Les Miserables\"?",
+          "optionA": "Victor Hugo",
+          "optionB": "Alexandre Dumas",
+          "optionC": "Gustave Flaubert",
+          "optionD": "Emile Zola",
+          "correctOption": "A"
+        },
+        {
+          "text": "Who wrote \"The Count of Monte Cristo\"?",
+          "optionA": "Victor Hugo",
+          "optionB": "Alexandre Dumas",
+          "optionC": "Gustave Flaubert",
+          "optionD": "Jules Verne",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"Animal Farm\"?",
+          "optionA": "Aldous Huxley",
+          "optionB": "George Orwell",
+          "optionC": "H.G. Wells",
+          "optionD": "E.M. Forster",
+          "correctOption": "B"
+        },
+        {
+          "text": "Who wrote \"The Canterbury Tales\"?",
+          "optionA": "Geoffrey Chaucer",
+          "optionB": "William Langland",
+          "optionC": "John Milton",
+          "optionD": "Edmund Spenser",
+          "correctOption": "A"
+        }
+      ]
+    }
+  ]
+}

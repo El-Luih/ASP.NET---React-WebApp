@@ -58,12 +58,12 @@
     - Commited changes
 
 21. Sep 17, 2026 | 7:35 PM - 7:40 PM - Ran "dotnet ef database update" to actually create "triviaApp.db"
-22. Sep 17, 2026 | 8:42:35 PM - 10:09 PM - Created the seed data of the Question and Category tables along the database initializer to make the database portable.
-
-
-
-
-
-    
-
+22. Sep 17, 2026 | 8:42 PM - 10:09 PM - Created the seed data of the Question and Category tables along the database initializer to make the database portable.
+23. Sep 18, 2026 | 7:54 AM - 12:12 PM - Created the Data Transfer Objects (DTO) for the client side of the app to use. 
+24. Sep 18, 2026 | 5:01 PM - 10:35 PM - Created the controllers for the TypeScript/React app to use its entrypoints, utilizing the data context created and the DTOs.
+25. Sep 18, 2026 | 10:35 PM - Sep 19, 2026 4:13 AM - Implemented a unique name logic, so that players can only submit a unique name. This is planned to be asked before being allowed to play the quiz.
+    - The existing ScoreDtos.cs and ScoresController.cs files have been modified.
+    - The file PlayersController.cs was created in the Controllers folder to handle this logic.
+    - The file PlayerNameHeper.cs was created as a service in a new Services directory. It checks for an existing player name.
+26. Sep 19, 2026 | 4:13 AM - 6:42 AM - Testing, troubleshooting, fixing and commit.
 

@@ -50,7 +50,7 @@ public static class DbInitializer
             return;
         }
 
-        var jsonPath = Path.Combine(contentRootPath, "trivia-seed-data.json");
+        var jsonPath = Path.Combine(contentRootPath, "Data", "TriviaData", "trivia-seed-data.json");
         var json = File.ReadAllText(jsonPath);
         var seedFile = JsonSerializer.Deserialize<SeedFile>(json)
             ?? throw new InvalidOperationException("trivia-seed-data.json could not be parsed.");
@@ -64,13 +64,13 @@ public static class DbInitializer
             {
                 context.TQuestions.Add(new TQuestion
                 {
-                    QCategory = category, // EF Core resolves QCatId from this
+                    QCategory = category,
                     QText = sq.Text,
                     QOptionA = sq.OptionA,
                     QOptionB = sq.OptionB,
                     QOptionC = sq.OptionC,
                     QOptionD = sq.OptionD,
-                    QCorrectOption = sq.CorrectOption[0] // "B" -> 'B'
+                    QCorrectOption = sq.CorrectOption[0]
                 });
             }
         }
