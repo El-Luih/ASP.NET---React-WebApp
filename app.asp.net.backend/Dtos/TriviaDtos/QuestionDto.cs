@@ -1,6 +1,6 @@
 namespace app.asp.net.backend.TriviaDtos;
 
-// Has no CorrectOption field - the client should never receive it.
+// Deliberately excludes CorrectOption so answers stay on the server.
 public class QuestionDto
 {
     public int Id { get; set; }

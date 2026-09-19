@@ -5,6 +5,7 @@ namespace app.asp.net.backend.TriviaModels;
 
 public class TScore
 {
+    // A score belongs to both a player and the category they played.
     public int Id { get; set; }
     public int SCatId { get; set; }
     public string SPlayerName { get; set; } = string.Empty;

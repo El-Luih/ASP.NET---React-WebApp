@@ -4,7 +4,7 @@ using app.asp.net.backend.TriviaModels;
 
 namespace app.asp.net.backend.TriviaData;
 
-// These classes only exist to match the shape of seed-data.json for deserialization. Their property names stay tied to the JSON file's keys (via JsonPropertyName).
+// These classes mirror the seed JSON so it can be converted into database entities.
 public class SeedFile
 {
     [JsonPropertyName("categories")]
@@ -45,6 +45,7 @@ public static class DbInitializer
 {
     public static void Seed(TriviaDBContext context, string contentRootPath)
     {
+        // Seeding only an empty database keeps restarts from duplicating questions.
         if (context.TCategories.Any())
         {
             return;
@@ -55,6 +56,7 @@ public static class DbInitializer
         var seedFile = JsonSerializer.Deserialize<SeedFile>(json)
             ?? throw new InvalidOperationException("trivia-seed-data.json could not be parsed.");
 
+        // Build relationships in memory before saving the category and its questions.
         foreach (var seedCategory in seedFile.Categories)
         {
             var category = new TCategory { CatName = seedCategory.Name };

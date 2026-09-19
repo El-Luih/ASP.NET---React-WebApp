@@ -3,6 +3,7 @@ namespace app.asp.net.backend.TriviaDtos;
 
 public class SubmitScoreRequest
 {
+    // The client sends answers, not a calculated score.
     public string PlayerName { get; set; } = string.Empty;
     public int CategoryId { get; set; }
     public List<AnswerDto> Answers { get; set; } = new();
@@ -25,6 +26,7 @@ public class ScoreResultDto
 
 public class LeaderboardEntryDto
 {
+    // This is the public shape used by the results leaderboard.
     public string PlayerName { get; set; } = string.Empty;
     public int Correct { get; set; }
     public int Total { get; set; }

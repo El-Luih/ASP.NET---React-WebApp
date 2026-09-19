@@ -4,31 +4,26 @@ using app.asp.net.backend.TriviaData;
 
 var builder = WebApplication.CreateBuilder(args);
 
-////////////////////SERVICES////////////////////
-// DEFAULT Add services to the container.
-//Adds a collect
+// Register the services that the controllers need to handle API requests.
 builder.Services.AddDbContext<TriviaDBContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
-// DEFAULT Integrates controller files in "Controllers" to the app.
 builder.Services.AddControllers();
-// DEFAULT Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
-//Uses the AddCors ASP.NET service to create a new, strict policy that would allow request from a different origin.
+
+// During development, the React dev server is a separate origin from the API.
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("ReactDev", policy =>
     {
-        //Allows request using any method and any headers from the React app origin
         policy.WithOrigins("http://localhost:5173")
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
 });
 
-////////////////////BUILDERS////////////////////
 var app = builder.Build();
 
-////////DATABASE INITIZIALIZATION////////////////////w
+// Seed the database once at startup so a fresh checkout has quiz content.
 using (var scope = app.Services.CreateScope())
 {
     var context = scope.ServiceProvider.GetRequiredService<TriviaDBContext>();

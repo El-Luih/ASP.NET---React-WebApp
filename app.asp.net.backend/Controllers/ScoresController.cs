@@ -21,6 +21,7 @@ public class ScoresController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<ScoreResultDto>> SubmitScore([FromBody] SubmitScoreRequest request)
     {
+        // Scores are calculated from database answers, not from a client-provided total.
         var name = request.PlayerName?.Trim();
 
         if (string.IsNullOrEmpty(name))
@@ -95,6 +96,7 @@ public class ScoresController : ControllerBase
         [FromQuery] int categoryId,
         [FromQuery] int top = 10)
     {
+        // Sorting here keeps the leaderboard consistent for every client.
         if (categoryId <= 0 || top <= 0)
         {
             return BadRequest("categoryId and top must be positive.");

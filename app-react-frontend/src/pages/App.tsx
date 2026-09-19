@@ -19,11 +19,13 @@ type LeaderboardEntry = {
   createdAt: string
 }
 
+// Keeping the API base in one place makes local proxying and deployed URLs easy to change.
 const API_URL = import.meta.env.VITE_API_URL ?? '/api'
 const options = ['A', 'B', 'C', 'D'] as const
 type Option = (typeof options)[number]
 
 function App() {
+  // The app is a single React page, but these steps give the player a clear multi-page flow.
   const [step, setStep] = useState<'name' | 'category' | 'quiz' | 'results'>('name')
   const [playerName, setPlayerName] = useState('')
   const [nameInput, setNameInput] = useState('')
@@ -37,6 +39,7 @@ function App() {
   const [error, setError] = useState<string | null>(null)
 
   useEffect(() => {
+    // Categories are loaded once when the app opens so the selection screen uses database data.
     fetch(`${API_URL}/categories`)
       .then(async response => {
         if (!response.ok) throw new Error('Categories could not be loaded.')
@@ -46,6 +49,7 @@ function App() {
   }, [])
 
   async function verifyName(event: FormEvent) {
+    // Name verification happens before the player is allowed to start a quiz.
     event.preventDefault()
     const name = nameInput.trim()
     if (!name) return setError('Enter a username to continue.')
@@ -65,6 +69,7 @@ function App() {
   }
 
   async function startQuiz(event: FormEvent) {
+    // The backend chooses the questions so the client never controls the quiz contents.
     event.preventDefault()
     if (!categoryId) return setError('Choose a category to begin.')
     setLoading(true)
@@ -80,6 +85,7 @@ function App() {
   }
 
   async function submitQuiz(event: FormEvent) {
+    // Send question IDs and selected options; the backend remains responsible for grading.
     event.preventDefault()
     if (!categoryId || Object.keys(answers).length !== questions.length) {
       return setError('Answer every question before submitting.')
@@ -96,6 +102,7 @@ function App() {
       })
       if (!response.ok) throw new Error(await response.text() || 'Score could not be submitted.')
       const result = (await response.json()) as ScoreResult
+      // Fetch the leaderboard after saving so the new score appears immediately.
       const leaderboardResponse = await fetch(`${API_URL}/scores?categoryId=${categoryId}&top=10`)
       if (!leaderboardResponse.ok) throw new Error('Leaderboard could not be loaded.')
       setScore(result)
@@ -113,6 +120,7 @@ function App() {
 
   return (
     <main className="app-shell">
+      {/* Each step renders only the controls needed for that part of the experience. */}
       <header className="topbar"><a className="brand" href="/" aria-label="InsTrivia home"><img src="/ins-trivia-mark.svg" alt="" /> <span>InsTrivia</span></a><span className="status">{step === 'quiz' ? 'QUIZ IN PROGRESS' : 'TRIVIA NIGHT'}</span></header>
       <section className="content">
         {step === 'name' && <section className="welcome-panel"><p className="eyebrow">A little knowledge goes a long way</p><h1>Play with your<br /><em>curiosity.</em></h1><p className="intro">Choose a name, pick a category, and see how far you can go.</p><form onSubmit={verifyName} className="entry-form"><label htmlFor="username">Your username</label><input id="username" value={nameInput} onChange={event => setNameInput(event.target.value)} placeholder="e.g. Ada Lovelace" autoComplete="off" /><button type="submit" disabled={loading}>{loading ? 'Checking...' : 'Continue'} <span>→</span></button></form></section>}

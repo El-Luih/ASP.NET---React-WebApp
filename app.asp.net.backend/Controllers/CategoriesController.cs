@@ -20,6 +20,7 @@ public class CategoriesController : ControllerBase
     [HttpGet]
     public async Task<ActionResult<List<CategoryDto>>> GetCategories()
     {
+        // Return a small DTO instead of exposing the database entity directly.
         var categories = await _context.TCategories
             .Select(c => new CategoryDto
             {

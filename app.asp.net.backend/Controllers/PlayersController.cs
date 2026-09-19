@@ -6,7 +6,7 @@ using app.asp.net.backend.TriviaServices;
 namespace app.asp.net.backend.Controllers;
 
 [ApiController]
-[Route("api/[controller]")] // -> api/players
+[Route("api/[controller]")]
 public class PlayersController : ControllerBase
 {
     private readonly TriviaDBContext _context;
@@ -16,14 +16,10 @@ public class PlayersController : ControllerBase
         _context = context;
     }
 
-    // POST api/players/verify-name
-    // Body: { "playerName": "Alice" }
-    // This is a "dry run" check only - it does not reserve the name. The
-    // authoritative check happens again in ScoresController when the score
-    // is actually saved, since that is the moment a name is truly claimed.
     [HttpPost("verify-name")]
     public async Task<ActionResult<NameCheckResponse>> VerifyName([FromBody] NameCheckRequest request)
     {
+        // This is a friendly pre-check; ScoresController verifies again before saving.
         var name = request.PlayerName?.Trim();
 
         if (string.IsNullOrEmpty(name))

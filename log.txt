@@ -80,7 +80,7 @@
     - Updated the application footer to display "Luis Maradiaga · INS · 2026".
     - Validated the project with successful "pnpm build" and "dotnet build" commands, and verified that the Vite development server starts successfully at "http://127.0.0.1:5173/".
 
-28. Sep 19, 2026 | 7:13 AM - 8:02 AM - Added the final development and branding improvements. This included the following processes:
+28. Sep 19, 2026 | 7:13 AM - 8:19 AM - Added the final development and branding improvements. This included the following processes:
     - Added the "dev:all" package script using the installed "concurrently" package to start the Vite frontend and ASP.NET backend with one command.
     - Configured the combined command to start Vite at "http://localhost:5173" and ASP.NET at "http://localhost:5069", with both processes stopping together.
     - Removed comments added during the implementation from the touched code files.
@@ -88,4 +88,7 @@
     - Updated the favicon to use the new InsTrivia SVG mark.
     - Updated the document title from "Softia" to "InsTrivia".
     - Validated the frontend with a successful "pnpm build" command.
+    - Comitted changes to repo.
+
+29. Sep 19, 2026 | 9:26 AM - 11:41 AM - Added thorough commentary to the most important parts of the code as part of the requirements.
 

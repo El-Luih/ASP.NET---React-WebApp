@@ -21,6 +21,7 @@ public class QuestionsController : ControllerBase
         [FromQuery] int categoryId,
         [FromQuery] int count = 7)
     {
+        // Validate the request before touching the database.
         if (categoryId <= 0 || count <= 0)
         {
             return BadRequest("categoryId and count must be positive.");
@@ -35,6 +36,7 @@ public class QuestionsController : ControllerBase
             return NotFound($"No questions found for category {categoryId}.");
         }
 
+        // Shuffling on the server prevents every player from seeing the same order.
         var random = new Random();
         var selected = questionsInCategory
             .OrderBy(_ => random.Next())
