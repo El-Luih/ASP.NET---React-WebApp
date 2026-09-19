@@ -38,9 +38,7 @@ The correct answers are never included in the public question response. Scores a
 
 ## Software Demo Video
 
-The video link will be added here after the demonstration is uploaded.
-
-[Watch the InsTrivia demonstration and code walkthrough](https://youtu.be/hpsWqJ6Slnk)
+There is a Software Demo Video which can be given by request.
 
 The video demonstrates the application running and explains the TypeScript, React, ASP.NET Core, SQLite, and overall project structure.
 
